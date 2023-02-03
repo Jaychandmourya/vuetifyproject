@@ -1,0 +1,124 @@
+{
+  "categories": [
+    {
+      "cname": "cate1",
+      "description": "goood cate",
+      "cstatus": true,
+      "id": 4
+    },
+    {
+      "cname": "cate2",
+      "description": "cate2 good",
+      "cstatus": true,
+      "id": 5
+    },
+    {
+      "cname": "cate3",
+      "description": "cate3 good",
+      "cstatus": true,
+      "id": 6
+    },
+    {
+      "cname": "cate4",
+      "description": "cate4",
+      "cstatus": true,
+      "id": 7
+    },
+    {
+      "cname": "cate5",
+      "description": "cate6",
+      "cstatus": true,
+      "id": 8
+    }
+  ],
+  "items": [
+    {
+      "pname": "products11",
+      "categories": "cate2",
+      "pdescription": "nice product11",
+      "price": "30",
+      "pstatus": true,
+      "id": 1
+    },
+    {
+      "pname": "product4",
+      "categories": "cate2",
+      "pdescription": "dsgfgdfgdfgdfgdgf",
+      "price": "12",
+      "pstatus": true,
+      "id": 2
+    },
+    {
+      "pname": "productsss",
+      "categories": "cate2",
+      "pdescription": "hjhgjhj",
+      "price": "12",
+      "pstatus": true,
+      "id": 3
+    },
+    {
+      "pname": "jaychand",
+      "categories": "cate1",
+      "pdescription": "jaychand product",
+      "price": "15",
+      "pstatus": true,
+      "id": 4
+    },
+    {
+      "pname": "dsasdsad",
+      "categories": "cate2",
+      "pdescription": "cxzcxzcxz",
+      "price": "11",
+      "pstatus": true,
+      "id": 5
+    },
+    {
+      "pname": "Bhawiksss",
+      "categories": "cate2",
+      "pdescription": "Bhawikssss",
+      "price": "10",
+      "pstatus": true,
+      "id": 6
+    },
+    {
+      "pname": "fdsfdsfds",
+      "categories": "cate2",
+      "pdescription": "fdsfdsfdsf",
+      "price": "11",
+      "pstatus": true,
+      "id": 7
+    },
+    {
+      "pname": "ddasd",
+      "categories": "cate2",
+      "pdescription": "sdsdsad",
+      "price": "12",
+      "pstatus": true,
+      "id": 8
+    },
+    {
+      "pname": "products4",
+      "categories": "cate3",
+      "pdescription": "good products4",
+      "price": "14",
+      "pstatus": true,
+      "id": 18
+    },
+    {
+      "pname": "product3",
+      "categories": "cate2",
+      "pdescription": "product3 is good",
+      "price": "12",
+      "pstatus": true,
+      "id": 19
+    },
+    {
+      "pname": "products56",
+      "categories": "cate2",
+      "pdescription": "product56",
+      "price": "12",
+      "pstatus": true,
+      "id": 20
+    }
+  ]
+}
